@@ -1,0 +1,11 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="veracrypt">
+  <defs>
+    <linearGradient id="gocyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22CCE2"/>
+      <stop offset="1" stop-color="#0079A8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"><path d="M128 46L166 60V88C166 112 150 130 128 138C106 130 90 112 90 88V60Z" stroke-width="10"/><ellipse cx="128" cy="76" rx="20" ry="7" stroke-width="8"/><path d="M108 76V104A20 7 0 0 0 148 104V76" stroke-width="8"/></g>
+  <rect x="52" y="146" width="152" height="48" rx="14" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+  <text x="128" y="177" text-anchor="middle" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-weight="700" font-size="17" fill="#FFFFFF">veracrypt</text>
+</svg>
